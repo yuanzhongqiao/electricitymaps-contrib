@@ -1,90 +1,63 @@
-<p align="center">
-  <a href="https://www.app.electricitymaps.com">
-    <img alt="Electricity Maps" src="https://raw.githubusercontent.com/electricitymaps/electricitymaps-contrib/master/web/public/images/electricitymaps-icon.svg" width="100" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a href="https://www.app.electricitymaps.com" rel="nofollow">
+    <img alt="电力地图" src="https://raw.githubusercontent.com/electricitymaps/electricitymaps-contrib/master/web/public/images/electricitymaps-icon.svg" width="100" style="max-width: 100%;">
   </a>
 </p>
-<h1 align="center">
-  Electricity Maps
-</h1>
-
-<p align="center">
-A real time and historical visualisation of the Greenhouse Gas Intensity (in terms of CO<sub>2</sub> equivalent) of electricity production and consumption around the world.<br>
-  <strong><a href="https://app.electricitymaps.com">app.electricitymaps.com »</a></strong>
+<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  电力地图
+</font></font></h1><a id="user-content---electricity-maps" class="anchor" aria-label="永久链接：电力地图
+" href="#--electricity-maps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全球电力生产和消费的</font><font style="vertical-align: inherit;">
+温室气体强度（以 CO </font></font><sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2当量计）的实时和历史可视化。</font></font></sub><font style="vertical-align: inherit;"></font><br>
+  <strong><a href="https://app.electricitymaps.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">app.electricitymaps.com »</font></font></a></strong>
 </p>
-
-<p align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/electricitymaps/electricitymaps-contrib">
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d05570308bac994d652c2992451566d6c18169f20e733e2b204fdcb81c4b6ded/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f656c6563747269636974796d6170732f656c6563747269636974796d6170732d636f6e74726962"><img alt="GitHub 最后一次提交" src="https://camo.githubusercontent.com/d05570308bac994d652c2992451566d6c18169f20e733e2b204fdcb81c4b6ded/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f656c6563747269636974796d6170732f656c6563747269636974796d6170732d636f6e74726962" data-canonical-src="https://img.shields.io/github/last-commit/electricitymaps/electricitymaps-contrib" style="max-width: 100%;"></a>
   <a href="https://github.com/electricitymaps/electricitymaps-contrib/releases">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/electricitymaps/electricitymaps-contrib"></a>
+    <img alt="GitHub 发布（按日期最新）" src="https://camo.githubusercontent.com/e46a90bc4b120f0fcc29b264c86f22464200a9778afc4343209ad363ddb6ab6f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f656c6563747269636974796d6170732f656c6563747269636974796d6170732d636f6e74726962" data-canonical-src="https://img.shields.io/github/v/release/electricitymaps/electricitymaps-contrib" style="max-width: 100%;"></a>
   <a href="https://github.com/electricitymaps/electricitymaps-contrib/CONTRIBUTING.md">
-    <a href="https://github.com/electricitymaps/electricitymaps-contrib/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/github/license/electricitymaps/electricitymaps-contrib" alt="Electricity Maps is released under the GNU-AGPLv3 license." /></a>
-  <a href="https://slack.electricitymaps.com">
-    <img src="https://img.shields.io/badge/slack-3700%2B-%23126945" alt="Join our Slack" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=ElectricityMaps">
-    <img src="https://img.shields.io/twitter/follow/ElectricityMaps" alt="Twitter Follow" /></a>
+    </a><a href="https://github.com/electricitymaps/electricitymaps-contrib/blob/master/LICENSE.md">
+    <img src="https://camo.githubusercontent.com/ccadead383c8888726927f4cc096ba019ee797981da36bcb4d0c6989c1790ad1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f656c6563747269636974796d6170732f656c6563747269636974796d6170732d636f6e74726962" alt="电力地图是在 GNU-AGPLv3 许可证下发布的。" data-canonical-src="https://img.shields.io/github/license/electricitymaps/electricitymaps-contrib" style="max-width: 100%;"></a>
+  <a href="https://slack.electricitymaps.com" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/03f8dfaedd74dcffe026481d82cb44cd0152711d8ea7dfc5275d3865c1e2a3e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736c61636b2d333730302532422d253233313236393435" alt="加入我们的 Slack" data-canonical-src="https://img.shields.io/badge/slack-3700%2B-%23126945" style="max-width: 100%;"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=ElectricityMaps" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/064c105825a832ed031e7d964991a3a92ed31a9205eb40c18f1f4762aa728367/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f456c6563747269636974794d617073" alt="推特关注" data-canonical-src="https://img.shields.io/twitter/follow/ElectricityMaps" style="max-width: 100%;"></a>
 </p>
-
-![image](web/public/images/electricitymap_social_image.png#gh-light-mode-only)
-![image](web/public/images/electricitymap_social_image_dark.png#gh-dark-mode-only)
-
-## Introduction
-
-This project aims to provide a free, open-source, and transparent visualisation of the carbon intensity of electricity consumption around the world.
-
-We fetch the raw production data from public, free, and official sources. They include official government and transmission system operators' data. We then run [our flow-tracing algorithm](https://www.electricitymaps.com/blog/flow-tracing) to calculate the actual carbon intensity of a country's electricity consumption.
-
-_Try it out at [app.electricitymaps.com](https://app.electricitymaps.com), or download the app on [Google Play](https://play.google.com/store/apps/details?id=com.tmrow.electricitymap&utm_source=github) or [App store](https://itunes.apple.com/us/app/electricity-map/id1224594248&utm_source=github)._
-
-## Contributing
-
-The Electricity Maps app is a community project and we welcome contributions from anyone!
-
-We are always looking for help to build parsers for new countries, fix broken parsers, improve the frontend app, improve accuracy of data sources, discuss new potential data sources, update region capacities, and much more.
-
-Read our [contribution guidelines](/CONTRIBUTING.md) to get started.
-
-## Community & Support
-
-Use these channels to be part of the community, ask for help while using Electricity Maps, or just learn more about what's going on:
-
-- [Slack](https://slack.electricitymaps.com): This is the main channel to join the community. You can ask for help, showcase your work, and stay up to date with everything happening.
-- [GitHub Issues](https://github.com/electricitymaps/electricitymaps-contrib/issues): Raise any issues you encounter with the data or bugs you find while using the app.
-- [GitHub Discussions](https://github.com/electricitymaps/electricitymaps-contrib/discussions): Join discussions and share new ideas for features.
-- [GitHub Wiki](https://github.com/electricitymaps/electricitymaps-contrib/wiki): Learn more about methodology, guides for how to set up development environment, etc.
-- [FAQ](https://app.electricitymaps.com/FAQ): Get your questions answered in our FAQ.
-- [Our Commercial Website](https://electricitymaps.com/): Learn more about how you or your company can use the data too.
-- [Our Blog](https://electricitymaps.com/blog/): Read about the green transition and how Electricity Maps is helping to accelerate it.
-- [Twitter](https://twitter.com/electricitymaps): Follow for latest news
-- [LinkedIn](https://www.linkedin.com/company/electricitymaps): Follow for latest news
-
-## License
-
-This repository is licensed under GNU-AGPLv3 since v1.5.0, find our license [here](https://github.com/electricitymaps/electricitymaps-contrib/blob/master/LICENSE.md). Contributions prior to commit [cb9664f](https://github.com/electricitymaps/electricitymaps-contrib/commit/cb9664f43f0597bedf13e832047c3fc10e67ba4e) were licensed under [MIT license](https://github.com/electricitymaps/electricitymaps-contrib/blob/master/LICENSE_MIT.txt)
-
-## Frequently asked questions
-
-_We also have a lot more questions answered on [app.electricitymaps.com/faq](https://app.electricitymaps.com/faq)!_
-
-**Where does the data come from?**
-The data comes from many different sources. You can check them out [here](https://github.com/electricityMaps/electricitymaps-contrib/blob/master/DATA_SOURCES.md)
-
-**Why do you calculate the carbon intensity of _consumption_?**
-In short, citizens should not be responsible for the emissions associated with all the products they export, but only for what they consume.
-Consumption-based accounting (CBA) is a very important aspect of climate policy and allows assigning responsibility to consumers instead of producers.
-Furthermore, this method is robust to governments relocating dirty production to neighboring countries in order to green their image while still importing from it.
-You can read more in our blog post [here](https://electricitymaps.com/blog/flow-tracing/).
-
-**Why don't you show emissions per capita?**
-A country that has few inhabitants but a lot of factories will appear high on CO<sub>2</sub>/capita.
-This means you can "trick" the numbers by moving your factory abroad and import the produced _good_ instead of the electricity itself.
-That country now has a low CO<sub>2</sub>/capita number because we only count CO<sub>2</sub> for electricity (not for imported/exported goods).
-The CO<sub>2</sub>/capita metric, by involving the size of the population, and by not integrating all CO<sub>2</sub> emission sources, is thus an incomplete metric.
-CO<sub>2</sub> intensity on the other hand only describes where is the best place to put that factory (and when it is best to use electricity), enabling proper decisions.
-
-**CO<sub>2</sub> emission factors look high — what do they cover exactly?**
-The carbon intensity of each type of power plant takes into account emissions arising from the whole life cycle of the plant (construction, fuel production, operational emissions and decommissioning). Read more on the [Emissions Factor Wiki page](https://github.com/electricitymaps/electricitymaps-contrib/wiki/Emission-factors).
-
-**How can I get access to historical data or the live API?**
-All this and more can be found **[here](https://electricitymaps.com/)**.
-You can also visit our **[data portal](https://www.electricitymaps.com/data-portal)** to download historical datasets.
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/electricitymaps/electricitymaps-contrib/blob/master/web/public/images/electricitymap_social_image.png#gh-light-mode-only"><img src="/electricitymaps/electricitymaps-contrib/raw/master/web/public/images/electricitymap_social_image.png#gh-light-mode-only" alt="图像" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/electricitymaps/electricitymaps-contrib/blob/master/web/public/images/electricitymap_social_image_dark.png#gh-dark-mode-only"><img src="/electricitymaps/electricitymaps-contrib/raw/master/web/public/images/electricitymap_social_image_dark.png#gh-dark-mode-only" alt="image" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h2><a id="user-content-introduction" class="anchor" aria-label="永久链接：简介" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目旨在提供免费、开源且透明的全球电力消耗碳强度可视化。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们从公共、免费和官方来源获取原始生产数据。</font><font style="vertical-align: inherit;">它们包括官方政府和传输系统运营商的数据。</font><font style="vertical-align: inherit;">然后，我们运行</font></font><a href="https://www.electricitymaps.com/blog/flow-tracing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流量追踪算法</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来计算一个国家电力消耗的实际碳强度。</font></font></p>
+<p dir="auto"><em><font style="vertical-align: inherit;"></font><a href="https://app.electricitymaps.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请在app.electricitymaps.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上试用，或从</font></font><a href="https://play.google.com/store/apps/details?id=com.tmrow.electricitymap&amp;utm_source=github" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Google Play</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://itunes.apple.com/us/app/electricity-map/id1224594248&amp;utm_source=github" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">App store</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载该应用程序</font><font style="vertical-align: inherit;">。</font></font></em></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电力地图应用程序是一个社区项目，我们欢迎任何人的贡献！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们一直在寻求帮助来为新的国家构建解析器、修复损坏的解析器、改进前端应用程序、提高数据源的准确性、讨论新的潜在数据源、更新区域容量等等。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请阅读我们的</font></font><a href="/electricitymaps/electricitymaps-contrib/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以开始使用。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区与支持</font></font></h2><a id="user-content-community--support" class="anchor" aria-label="永久链接：社区与支持" href="#community--support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用这些渠道成为社区的一部分，在使用电力地图时寻求帮助，或者只是了解有关正在发生的事情的更多信息：</font></font></p>
+<ul dir="auto">
+<li><a href="https://slack.electricitymaps.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Slack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：这是加入社区的主要渠道。</font><font style="vertical-align: inherit;">您可以寻求帮助、展示您的作品并了解最新动态。</font></font></li>
+<li><a href="https://github.com/electricitymaps/electricitymaps-contrib/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub 问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：提出您在使用应用程序时遇到的数据问题或发现的错误。</font></font></li>
+<li><a href="https://github.com/electricitymaps/electricitymaps-contrib/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub 讨论</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：加入讨论并分享功能的新想法。</font></font></li>
+<li><a href="https://github.com/electricitymaps/electricitymaps-contrib/wiki"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub Wiki</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：了解有关方法论的更多信息、如何设置开发环境的指南等。</font></font></li>
+<li><a href="https://app.electricitymaps.com/FAQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常见问题解答</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：在我们的常见问题解答中找到您的问题的答案。</font></font></li>
+<li><a href="https://electricitymaps.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的商业网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：详细了解您或您的公司如何使用这些数据。</font></font></li>
+<li><a href="https://electricitymaps.com/blog/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的博客</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：了解绿色转型以及电力地图如何帮助加速这一转型。</font></font></li>
+<li><a href="https://twitter.com/electricitymaps" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：关注最新消息</font></font></li>
+<li><a href="https://www.linkedin.com/company/electricitymaps" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LinkedIn</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：关注最新消息</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该存储库自 v1.5.0 起已获得 GNU-AGPLv3 许可，请</font></font><a href="https://github.com/electricitymaps/electricitymaps-contrib/blob/master/LICENSE.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">找到我们的许可证。</font></font><a href="https://github.com/electricitymaps/electricitymaps-contrib/commit/cb9664f43f0597bedf13e832047c3fc10e67ba4e"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交cb9664f</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">之前的贡献</font><font style="vertical-align: inherit;">已根据</font></font><a href="https://github.com/electricitymaps/electricitymaps-contrib/blob/master/LICENSE_MIT.txt"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT 许可证获得许可</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">经常问的问题</font></font></h2><a id="user-content-frequently-asked-questions" class="anchor" aria-label="永久链接：常见问题" href="#frequently-asked-questions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><em><font style="vertical-align: inherit;"></font><a href="https://app.electricitymaps.com/faq" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们还在app.electricitymaps.com/faq</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上解答了更多问题</font><font style="vertical-align: inherit;">！</font></font></em></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据从哪里来？</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+数据来自许多不同的来源。</font><a href="https://github.com/electricityMaps/electricitymaps-contrib/blob/master/DATA_SOURCES.md"><font style="vertical-align: inherit;">你可以在这里</font></a><font style="vertical-align: inherit;">查看它们</font></font><a href="https://github.com/electricityMaps/electricitymaps-contrib/blob/master/DATA_SOURCES.md"><font style="vertical-align: inherit;"></font></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为什么要计算</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">消费</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的碳强度？</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+简而言之，公民不应对其出口的所有产品相关的排放负责，而只需对其消费的产品负责。</font><font style="vertical-align: inherit;">基于消费的核算（CBA）是气候政策的一个非常重要的方面，它允许将责任分配给消费者而不是生产者。</font><font style="vertical-align: inherit;">此外，这种方法对于政府将肮脏的生产转移到邻国以在仍从邻国进口的同时保持其绿色形象来说是有效的。</font></font><a href="https://electricitymaps.com/blog/flow-tracing/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的博客文章中阅读更多内容</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为什么不显示人均排放量？</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+一个人口很少但工厂很多的国家</font><font style="vertical-align: inherit;">人均CO </font></font><sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2排放量似乎很高。</font></font></sub><font style="vertical-align: inherit;"></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这意味着您可以通过将工厂迁往国外并进口生产的产品</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">而不是电力本身来</font><font style="vertical-align: inherit;">“欺骗”数字。</font><font style="vertical-align: inherit;">该国现在的人均CO </font></font><sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数量较低，因为我们仅计算电力的 CO </font></font><sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（不计算进口/出口货物）。</font><font style="vertical-align: inherit;">因此， CO </font></font><sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> /人均指标涉及人口规模，并且未整合所有CO </font></font><sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">排放源，因此是一个不完整的指标。</font><font style="vertical-align: inherit;">另一方面，</font><font style="vertical-align: inherit;">CO </font></font><sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2强度仅描述了工厂的最佳放置地点（以及何时最好使用电力），以便做出正确的决策。</font></font></sub><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CO </font></font><sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">排放因子看起来很高——它们到底涵盖了什么？</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+每种类型发电厂的碳强度考虑了发电厂整个生命周期（建设、燃料生产、运营排放和退役）产生的排放。</font></font><a href="https://github.com/electricitymaps/electricitymaps-contrib/wiki/Emission-factors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请访问排放因子 Wiki 页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多信息</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何访问历史数据或实时 API？</font></font></strong><font style="vertical-align: inherit;"></font><strong><a href="https://electricitymaps.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所有这些以及更多内容都可以在这里</font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+找到</font><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">您还可以访问我们的</font></font><strong><a href="https://www.electricitymaps.com/data-portal" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据门户</font></font></a></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载历史数据集。</font></font></p>
+</article></div>
